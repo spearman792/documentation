@@ -4,7 +4,7 @@ geekdocCollapseSection: true
 weight: 70
 ---
 
-TrueNAS includes an easy to use interface for common tasks a sysadmin needs to preform on a NAS on a regular basis.  These can roughly be broken down into three groups.
+TrueNAS includes an easy to use interface for common tasks a sysadmin needs to perform on a NAS on a regular basis.  These can roughly be broken down into three groups.
 
  + System level tasks
    + Cron Jobs
